@@ -1,2 +1,11 @@
-# HoK-Helper-Releases
-Public APK releases and update manifests for HoK Helper. No application source code.
+# HoK Helper 安装包发布
+
+此仓库只提供 Android 安装包、更新说明和软件更新清单，不包含应用源码或用户战绩、昵称、截图。应用源码继续在独立私有仓库维护。
+
+[下载最新安装包](https://github.com/Michael37-tech/HoK-Helper-Releases/releases)
+
+需要 Android 14 或更高版本。已有旧版时直接覆盖安装，无需卸载；建议先备份。0.2.2 及更早版本需先手动安装 0.2.3，之后可通过“更多 → 软件更新”检查后续版本。
+
+默认打开应用后每天至多检查一次，仅在非计费 Wi-Fi 下下载。记录、识别和复测期间暂停；下载完成后由你确认安装。安装包会校验摘要、包名、版本和签名。用户数据保留在本机，不会自动上传。
+
+`update.json` 是应用读取的版本清单。GitHub 自动生成的 Source code 压缩包仅包含本仓库的发布资料，不是应用源代码。

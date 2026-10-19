@@ -1,10 +1,10 @@
 {
   "format": 1,
-  "versionCode": 13,
-  "versionName": "0.2.3",
+  "versionCode": 14,
+  "versionName": "0.2.4",
   "minSdk": 34,
-  "size": 79042743,
-  "sha256": "064835a96140c72602d9ff7cced873446f91078b127c9f897103df771904ff7f",
-  "url": "https://github.com/Michael37-tech/HoK-Helper-Releases/releases/download/v0.2.3/HoK-Helper-0.2.3.apk",
-  "notes": "新增软件联网更新：自动检查版本、非计费 Wi-Fi 后台下载、签名校验和安装确认。记录、后台识别及复测期间暂停更新。保留已有英雄识别和悬浮窗修复。"
+  "size": 79995325,
+  "sha256": "a2345b8f542a756208f728b598ffaf4b5bb2b46e76da26580ffc561781dff062",
+  "url": "https://github.com/Michael37-tech/HoK-Helper-Releases/releases/download/v0.2.4/HoK-Helper-0.2.4.apk",
+  "notes": "更换为金色冠冕战绩徽章图标，内部青绿至湖蓝柱体与金色外框区分，适配启动器裁剪。保留原有识别、记录及自动更新功能。0.2.3 可直接通过软件更新获取，安装仍需系统确认。"
 }

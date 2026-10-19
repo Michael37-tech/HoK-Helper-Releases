@@ -1,0 +1,10 @@
+{
+  "format": 1,
+  "versionCode": 13,
+  "versionName": "0.2.3",
+  "minSdk": 34,
+  "size": 79042743,
+  "sha256": "064835a96140c72602d9ff7cced873446f91078b127c9f897103df771904ff7f",
+  "url": "https://github.com/Michael37-tech/HoK-Helper-Releases/releases/download/v0.2.3/HoK-Helper-0.2.3.apk",
+  "notes": "新增软件联网更新：自动检查版本、非计费 Wi-Fi 后台下载、签名校验和安装确认。记录、后台识别及复测期间暂停更新。保留已有英雄识别和悬浮窗修复。"
+}

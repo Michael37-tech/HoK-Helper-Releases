@@ -1,10 +1,10 @@
 {
   "format": 1,
-  "versionCode": 14,
-  "versionName": "0.2.4",
+  "versionCode": 15,
+  "versionName": "0.2.5",
   "minSdk": 34,
-  "size": 79995325,
-  "sha256": "a2345b8f542a756208f728b598ffaf4b5bb2b46e76da26580ffc561781dff062",
-  "url": "https://github.com/Michael37-tech/HoK-Helper-Releases/releases/download/v0.2.4/HoK-Helper-0.2.4.apk",
-  "notes": "更换为金色冠冕战绩徽章图标，内部青绿至湖蓝柱体与金色外框区分，适配启动器裁剪。保留原有识别、记录及自动更新功能。0.2.3 可直接通过软件更新获取，安装仍需系统确认。"
+  "size": 80093197,
+  "sha256": "6d8aad5ad71cb5c46027836b0f103d2d0788199b4241054859d29fb55e32e386",
+  "url": "https://github.com/Michael37-tech/HoK-Helper-Releases/releases/download/v0.2.5/HoK-Helper-0.2.5.apk",
+  "notes": "后续异常截图以原尺寸无损 PNG 留档和导出，兼容旧 JPEG。补强英雄名称、本人定位、K/D/A 与比分识别；重复提示展示具体战绩。保留冲突确认，严重压缩仍可能漏识别。可直接覆盖升级。"
 }

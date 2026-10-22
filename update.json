@@ -1,10 +1,10 @@
 {
   "format": 1,
-  "versionCode": 15,
-  "versionName": "0.2.5",
+  "versionCode": 16,
+  "versionName": "0.2.6",
   "minSdk": 34,
-  "size": 80093197,
-  "sha256": "6d8aad5ad71cb5c46027836b0f103d2d0788199b4241054859d29fb55e32e386",
-  "url": "https://github.com/Michael37-tech/HoK-Helper-Releases/releases/download/v0.2.5/HoK-Helper-0.2.5.apk",
-  "notes": "后续异常截图以原尺寸无损 PNG 留档和导出，兼容旧 JPEG。补强英雄名称、本人定位、K/D/A 与比分识别；重复提示展示具体战绩。保留冲突确认，严重压缩仍可能漏识别。可直接覆盖升级。"
+  "size": 80158792,
+  "sha256": "552514245904707352b573c994c9a911951b9265b2946bb676faec505e451d29",
+  "url": "https://github.com/Michael37-tech/HoK-Helper-Releases/releases/download/v0.2.6/HoK-Helper-0.2.6.apk",
+  "notes": "仅新增“连接电脑”：与同一局域网的电脑配对，自动同步战绩新增、修改和删除。默认关闭，需电脑建模工作台在线；截图和昵称不传输。原有记录与识别逻辑不变，可直接覆盖安装。"
 }

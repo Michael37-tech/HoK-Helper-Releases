@@ -1,10 +1,10 @@
 {
   "format": 1,
-  "versionCode": 16,
-  "versionName": "0.2.6",
+  "versionCode": 17,
+  "versionName": "0.2.7",
   "minSdk": 34,
-  "size": 80158792,
-  "sha256": "552514245904707352b573c994c9a911951b9265b2946bb676faec505e451d29",
-  "url": "https://github.com/Michael37-tech/HoK-Helper-Releases/releases/download/v0.2.6/HoK-Helper-0.2.6.apk",
-  "notes": "仅新增“连接电脑”：与同一局域网的电脑配对，自动同步战绩新增、修改和删除。默认关闭，需电脑建模工作台在线；截图和昵称不传输。原有记录与识别逻辑不变，可直接覆盖安装。"
+  "size": 174704998,
+  "sha256": "f84b607eef778005e5c1456a55049a15fade080b444899413cc5637c8ecb0875",
+  "url": "https://github.com/Michael37-tech/HoK-Helper-Releases/releases/download/v0.2.7/HoK-Helper-0.2.7.apk",
+  "notes": "手机版界面与战绩核对改版、悬浮窗交互及冷却修复；新增 Windows 建模工作台，完善战绩副本同步和独立评估。入口移至设置页，可覆盖安装。"
 }

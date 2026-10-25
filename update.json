@@ -1,10 +1,10 @@
 {
   "format": 1,
-  "versionCode": 17,
-  "versionName": "0.2.7",
+  "versionCode": 18,
+  "versionName": "0.2.8",
   "minSdk": 34,
-  "size": 174704998,
-  "sha256": "f84b607eef778005e5c1456a55049a15fade080b444899413cc5637c8ecb0875",
-  "url": "https://github.com/Michael37-tech/HoK-Helper-Releases/releases/download/v0.2.7/HoK-Helper-0.2.7.apk",
-  "notes": "手机版界面与战绩核对改版、悬浮窗交互及冷却修复；新增 Windows 建模工作台，完善战绩副本同步和独立评估。入口移至设置页，可覆盖安装。"
+  "size": 175240451,
+  "sha256": "008521d588ba459d7d6456d360b056e483a69f8ac16e76ceac02f43c6b3c6664",
+  "url": "https://github.com/Michael37-tech/HoK-Helper-Releases/releases/download/v0.2.8/HoK-Helper-0.2.8.apk",
+  "notes": "新增可选的随王者荣耀启动；修复自动查询时悬浮窗闪烁，支持四边收纳、点击箭头展开和位置记忆。每个新截图会话仍需确认授权。Windows工作台继续使用0.2.7。"
 }
